@@ -27,7 +27,8 @@
 | Google Analytics | Яндекс Метрика  | Анализ трафика и поведения                                                          | [Перейти](https://metrika.yandex.ru)                |
 | Google play      | RuStore         | Магазин приложений для Android                                                      | [Перейти](https://www.rustore.ru/)                  |
 | Microsoft Office | MyOffice        | Для работы с текстовыми документами, таблицами, презентациями и другими документами | [Перейти](https://myoffice.ru/)                     |
-| Jira             | Yandex Tracker  | Сервис для совместной работы и организации процессов в компании.                    | [Перейти](https://yandex.cloud/ru/services/tracker) |
+| Jira             | Yandex Tracker  | Сервис для совместной работы и организации процессов в компании                     | [Перейти](https://yandex.cloud/ru/services/tracker) |
+| Notion           | Weeek           | Сервис для создания заметок, управления задачами и организации данных в одном месте | [Перейти](https://weeek.net/ru)                     |
  
 ### Корпоративные мессенджеры
 | Оригинал         | Альтернатива        | Описание                      | Ссылка                                               |
