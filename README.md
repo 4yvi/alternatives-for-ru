@@ -29,17 +29,18 @@
 | Jira             | Yandex Tracker  | Сервис для совместной работы и организации процессов в компании.                    | [Перейти](https://yandex.cloud/ru/services/tracker) |
  
 ### Корпоративные мессенджеры
-| Оригинал         | Альтернатива        | Описание                      | Ссылка                                             |
-|------------------|---------------------|-------------------------------|----------------------------------------------------|
-| Slack            | Squadus             | Корпоративный мессенджер      | [Перейти](https://myoffice.ru/products/squadus/)   |
-| Slack            | Loop                | Корпоративный мессенджер      | [Перейти](https://loop.ru/)                        |
-| Slack            | МТС Линк Чаты       | Корпоративный мессенджер      | [Перейти](https://mts-link.ru/products/messenger/) |
-| Slack            | Пачка               | Корпоративный мессенджер      | [Перейти](https://www.pachca.com/)                 |
-| Slack            | eXpress             | Корпоративный мессенджер      | [Перейти](https://express.ms/)                     |
-| Slack            | Dialog Enterprise X | Корпоративный мессенджер      | [Перейти](https://dialog.ctm.ru/)                  |
-| Slack            | Samoware            | Корпоративный мессенджер      | [Перейти](https://www.samoware.ru/)                |
-| Slack            | tada.team           | Корпоративный мессенджер      | [Перейти](https://tada.team/)                      |
-| Slack            | VK Teams            | Корпоративный мессенджер      | [Перейти](https://biz.mail.ru/teams)               |
+| Оригинал         | Альтернатива        | Описание                      | Ссылка                                               |
+|------------------|---------------------|-------------------------------|------------------------------------------------------|
+| Slack            | Squadus             | Корпоративный мессенджер      | [Перейти](https://myoffice.ru/products/squadus/)     |
+| Slack            | Loop                | Корпоративный мессенджер      | [Перейти](https://loop.ru/)                          |
+| Slack            | МТС Линк Чаты       | Корпоративный мессенджер      | [Перейти](https://mts-link.ru/products/messenger/)   |
+| Slack            | Пачка               | Корпоративный мессенджер      | [Перейти](https://www.pachca.com/)                   |
+| Slack            | eXpress             | Корпоративный мессенджер      | [Перейти](https://express.ms/)                       |
+| Slack            | Dialog Enterprise X | Корпоративный мессенджер      | [Перейти](https://dialog.ctm.ru/)                    |
+| Slack            | Samoware            | Корпоративный мессенджер      | [Перейти](https://www.samoware.ru/)                  |
+| Slack            | tada.team           | Корпоративный мессенджер      | [Перейти](https://tada.team/)                        |
+| Slack            | VK Teams            | Корпоративный мессенджер      | [Перейти](https://biz.mail.ru/teams)                 |
+| Slack            | Yandex messenger    | Корпоративный мессенджер      | [Перейти](https://360.yandex.ru/business/messenger/) |
 
 ### Онлайн доски
 | Оригинал         | Альтернатива    | Описание                                                                            | Ссылка                                              |
