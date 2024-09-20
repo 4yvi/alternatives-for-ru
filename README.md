@@ -17,15 +17,22 @@
 2. Ознакомьтесь с альтернативами, представленными в виде таблицы или файла данных.
 
 ## Список инструментов
-| Оригинал         | Альтернатива   | Описание                        | Ссылка                                  |
-|------------------|----------------|---------------------------------|-----------------------------------------|
-| Google Analytics | Яндекс Метрика | Анализ трафика и поведения      | [Перейти](https://metrika.yandex.ru)    |
-| Miro             | Holst.so       | Онлайн доска                    | [Перейти](https://holst.so)             |
-| Miro             | Yandex boards  | Онлайн доска от Yandex          | [Перейти](https://boards.yandex.ru/)    |
-| Miro             | VK boards      | Онлайн доска от VK              | [Перейти](https://board.vk.company/)    |
-| Miro             | Unidraw        | Онлайн доска от Т-Банка         | [Перейти](https://unidraw.io/)          |
-| Miro             | Sboard         | Онлайн доска                    | [Перейти](https://sboard.online/)       |
-| Google play      | Rustore        | Магазин приложений для Android  | [Перейти](https://www.rustore.ru/)      |
+| Оригинал         | Альтернатива     | Описание                                                                            | Ссылка                                             |
+|------------------|------------------|-------------------------------------------------------------------------------------|----------------------------------------------------|
+| Zoom             | Яндекс Телемост  | Онлайн встречи                                                                      | [Перейти](https://telemost.yandex.ru/)             |
+| Zoom             | МТС Линк         | Онлайн встречи                                                                      | [Перейти](https://mts-link.ru/products/meetings/)  |
+| Google Analytics | Яндекс Метрика   | Анализ трафика и поведения                                                          | [Перейти](https://metrika.yandex.ru)               |
+| Miro             | Holst.so         | Онлайн доска                                                                        | [Перейти](https://holst.so)                        |
+| Miro             | Yandex boards    | Онлайн доска от Yandex                                                              | [Перейти](https://boards.yandex.ru/)               |
+| Miro             | VK boards        | Онлайн доска от VK                                                                  | [Перейти](https://board.vk.company/)               |
+| Miro             | Unidraw          | Онлайн доска от Т-Банка                                                             | [Перейти](https://unidraw.io/)                     |
+| Miro             | Sboard           | Онлайн доска                                                                        | [Перейти](https://sboard.online/)                  |
+| Miro             | МТС Линк Доски   | Онлайн доска от МТС                                                                 | [Перейти](https://mts-link.ru/products/boards/)    |
+| Google play      | RuStore          | Магазин приложений для Android                                                      | [Перейти](https://www.rustore.ru/)                 |
+| Microsoft Office | MyOffice         | Для работы с текстовыми документами, таблицами, презентациями и другими документами | [Перейти](https://myoffice.ru/)                    |
+| Slack            | Squadus          | Корпоративный мессенджер                                                            | [Перейти](https://myoffice.ru/products/squadus/)   |
+| Slack            | Loop             | Корпоративный мессенджер                                                            | [Перейти](https://loop.ru/)                        |
+| Slack            | МТС Линк Чаты    | Корпоративный мессенджер                                                            | [Перейти](https://mts-link.ru/products/messenger/) |
  
 ## Как внести вклад
 Если вы хотите предложить альтернативу или изменить существующую информацию:
